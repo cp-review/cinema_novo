@@ -1,0 +1,12 @@
+{
+  "count": 5249,
+  "atlasCount": 6,
+  "thumbSize": 128,
+  "atlasSize": 4096,
+  "bytesPerImage": 28,
+  "version": 3,
+  "atlasFormat": "webp",
+  "hasPreviewAtlases": true,
+  "previewThumbSize": 64,
+  "previewAtlasCount": 6
+}
